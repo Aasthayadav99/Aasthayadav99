@@ -80,7 +80,7 @@ const aastha = {
       <h3 align="center">✈️ Travel Booking App</h3>
       <div align="center">
         <a href="https://github.com/Aasthayadav99/Travel-app" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0d1117/6C8EF7?text=✈️+Travel+Booking+App" width="100%" alt="Travel App"/>
+          <img src="https://raw.githubusercontent.com/Aasthayadav99/Travel-app/main/screenshot/home.png" width="100%" alt="Travel App"/>
         </a>
         <br/><br/>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
